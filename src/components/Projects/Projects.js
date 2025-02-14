@@ -38,7 +38,7 @@ function Projects() {
               title="Social Media Website"
               description="Share and see photos and videos with friends in chitrgram. Chat with friends and share whats in your heart."
               ghLink="https://github.com/kartikaysharma07/Social-Media-App"
-              demoLink="https://blogs.souma-jit.tec/"
+              demoLink="https://social-media-app-lk5n.onrender.com"
             />
           </Col>
 
@@ -60,7 +60,7 @@ function Projects() {
               title="Portfolio"
               description="Portfolio Website using Framer Motion and 3d Effects, and Showcasing My Skills and Learnings through this Portfolio "
               ghLink="https://github.com/soumyajit4419/Plant_A"
-              demoLink="https://plant49-ai.herokuap.com/"
+              demoLink="https://portfolio-yluu.onrender.com"
             />
           </Col>
         </Row>
