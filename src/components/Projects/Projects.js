@@ -27,7 +27,7 @@ function Projects() {
               title="AirBnB Clone"
               description="Book a room or plan a trip using Airbnb anywhere anytime. "
               ghLink="https://github.com/kartikaysharma07/Airbnb-Clone"
-              demoLink="/https://airbnb-clone-1-eptg.onrender.com"
+              demoLink="https://airbnb-clone-1-eptg.onrender.com"
             />
           </Col>
 
@@ -60,7 +60,7 @@ function Projects() {
               title="Portfolio"
               description="Portfolio Website using Framer Motion and 3d Effects, and Showcasing My Skills and Learnings through this Portfolio "
               ghLink="https://github.com/soumyajit4419/Plant_A"
-              demoLink="https://portfolio-yluu.onrender.com"
+              demoLink="https://portfolio-9x79.onrender.com"
             />
           </Col>
         </Row>
